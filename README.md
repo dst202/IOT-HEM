@@ -21,4 +21,4 @@ To evaluate the proposed technique a prototype hardware model to be
 developed with IOT based Arduino. This system will gives satisfactory
 performance in the real time applications.
 
-This is done as a Bachelors project by me along with two more classmates.
+This is done as a Bachelors project by me along with two more students
