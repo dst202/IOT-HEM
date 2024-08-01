@@ -1,24 +1,29 @@
-# Energy-Monitoring-Control-and-automatic-Billing-of-house-using-ARDUINO_IOT
+# IOT Home Energy Monitor
 
+The idea of project is to design simple low cost Energy onsumption monitor for home by leveraging measurement techniques of **VOLTAGE, CURRENT, POWER,  POWERFACTOR  and  ENERGY**
 
-An implementation of IOT based home energy monitoring system is
-proposed to minimize the energy consumption cost in terms of effective
-utilization of household electric appliances. In real time application
-increasing the cost of power consumption plays a vital role in chaotic
-financial management. Moreover, due to modern life style and economic
-status of the family urge to use of more powered appliances without
-consciously considering the effects of over utility. Hence, monitoring and
-control of power utilities are utmost priority. This is intended to develop a
-home energy monitoring device, which is based on microcontroller that
-monitors the power consumption of each device at home and gives a
-detailed report. This can be viewed over IOT connected devices as well
-as it stores this data. This provides the consumer an idea how the power
-being consumed and help them to reduce it. However, everyone wishes
-to save the energy and money to reach their targets. Hence, minimizing
-the monthly electricity bill is a good place to start. On the other hand, not
-only for household appliances it can be used in small scale industries.
-To evaluate the proposed technique a prototype hardware model to be
-developed with IOT based Arduino. This system will gives satisfactory
-performance in the real time applications.
+Thus combining skill like Programming with C on Microcontrollers , Edge monitoring using API and PCB design skills.
 
-This is done as a Bachelors project by me along with two more students
+Each part of project is designed **One** of the **3 group** members.
+
+___
+
+*Project development is as follows:*
+
+1. Devlopement and Simulation of **VOLTAGE** measuremnt circuit
+
+2. Devlopement and Simulation of **CURRENT** measuremnt circuit
+
+3. Devlopement and Simulation of **Power Factor** measuremnt circuit
+
+4. Design and Assembly of entire circuit on **zero PCB**
+
+5. Programming Arduino UNO to calculate **POWER** and **ENERGY**
+
+6. Display of measuremenrs on LCD Display
+
+7. Sending data to cloud using **Thingspeak**
+
+___
+
+Indepth documentation and information is available in this [REPORT](/Report.pdf)
